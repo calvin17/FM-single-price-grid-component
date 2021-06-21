@@ -71,6 +71,9 @@ body {
 .subscription {
   background-color: $cyan;
   color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   &-title {
   }
   &-price {
@@ -130,7 +133,7 @@ body {
 /* DESKTOP */
 @media (min-width: 860px) {
   .container {
-    max-width: 760px;
+    max-width: 680px;
     margin: 15vh auto;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -157,7 +160,7 @@ body {
   .subscription {
     border-bottom-left-radius: 0.8rem;
     &-day {
-      font-size: 1.8rem;
+      font-size: 1.6rem;
     }
   }
   .about-us {
