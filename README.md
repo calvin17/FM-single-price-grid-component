@@ -20,7 +20,7 @@ This is a solution to the [Single Price Grid Component challenge on Frontend Men
 
 ## Overview
 
-- [Live Demo](https://calvin17.github.io/FM-four-card-feature-section/)
+- [Live Demo](https://calvin17.github.io/FM-single-price-grid-component/)
 
 ### The challenge
 
@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://calvin17.github.io/FM-four-card-feature-section/)
+- Live Site URL: [Add live site URL here](https://calvin17.github.io/FM-single-price-grid-component/)
 
 ## My process
 
